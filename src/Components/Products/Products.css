@@ -1,0 +1,9 @@
+.product {
+    border-bottom: 1px solid lightgrey;
+    padding: 20px;
+    display: flex;
+}
+
+.product-content {
+    padding-left: 20px;
+}

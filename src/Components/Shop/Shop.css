@@ -1,0 +1,19 @@
+.shop-container {
+    display: flex;
+    /* justify-content: center; */
+    width: 1200px;
+    margin: auto;
+    /* padding: 0 20px; */
+    /* background-color: aquamarine; */
+}
+
+.products-container {
+    width: 75%;
+    border-right: 1px solid lightgrey;
+    padding: 0 20px;
+}
+
+.order-container {
+    width: 25%;
+    padding: 0 20px;
+}

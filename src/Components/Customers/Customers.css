@@ -1,0 +1,6 @@
+.customers-container {
+    border: 1px solid cyan;
+    padding: 15px;
+    min-width: 350px;
+    margin: 15px 0;
+}

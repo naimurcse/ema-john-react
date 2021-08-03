@@ -1,0 +1,25 @@
+.header img {
+    max-width: 300px;
+    margin: 20px 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.nav {
+    background: black;
+}
+
+.nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.nav a:hover {
+    color: cyan;
+    background-color: rgba(255, 255, 255, 0.089);
+}
